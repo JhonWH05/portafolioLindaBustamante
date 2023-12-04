@@ -306,11 +306,25 @@ a {
 	height: auto;
 	padding: 20px;
 }
+.written_text2{
+	width: 100%;
+	float: left;
+	background-color: aquamarine;
+	height: auto;
+	padding: 20px;
+}
 
 .written_text{
 	width: 100%;
 	float: left;
 	color: #ffffff;
+	margin-top: 20px;
+}
+
+.written_text2{
+	width: 100%;
+	float: left;
+	color: #000;
 	margin-top: 20px;
 }
 .like_icon{
